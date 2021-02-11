@@ -9,7 +9,7 @@
 <body>
 <?php
     echo `dir`;
-
+echo 'hello';
     ?>
 </body>
 </html>
