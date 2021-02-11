@@ -8,6 +8,8 @@
 </head>
 <body>
 <?php
+    
+    <h1></h1>
     echo `dir`;
 echo 'hello';
     ?>
