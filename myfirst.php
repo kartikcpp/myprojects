@@ -13,7 +13,7 @@ this is multi line
 text printed by   
 PHP echo statement  
 ";  
-
+$ij="sfsf";
 $msg="Hello JavaTpoint PHP";  
 echo "Message is: $msg";  
 
